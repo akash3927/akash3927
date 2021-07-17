@@ -3,7 +3,7 @@
  <img src="https://64.media.tumblr.com/762e40897d93618393867de1fa19f162/tumblr_n1g3mwPVEP1qdezf9o1_500.gifv" width="250" /> <hr>
 
 - 📫 How to reach me *akashkothawade77@gmail.com*
--  <a href="https://www.instagram.com/akash_7sky/"><img src="https://img.shields.io/badge/Pratiksharameshanand-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Pratiksha Ramesh Anand" />
+-  <a href="https://www.instagram.com/akash_7sky/"><img src="https://img.shields.io/badge/Akash Arun Kothawade-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Akash Arun Kothawade" />
  <a href="https://www.linkedin.com/in/akash-kothawade-36350b145"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Flinked-in-logo-company-editorial-2668700%2F&psig=AOvVaw3xIdHk8VmjVUwIfX9u3158&ust=1626191767750000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiUnMny3fECFQAAAAAdAAAAABAD" alt="LinkedIn"/></a>
  
  <h3 align="left">Languages and Tools:</h3>
