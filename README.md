@@ -1,4 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Akash Kothawade</h1>
+
 <h3 align="left">About me:</h3>
 <img align='right' src="https://images.chesscomfiles.com/uploads/game-gifs/90px/green/neo/0/cc/0/1/bEJaSmd2IVRjRDBTYmw1UWtzOTBtdTghZnRUTkR3TlR2S1FLd0swUktUN1RsdlNLQktSS3ZLVEtlZ1lRbkRLVGZ2NkV0MyEzdnhFeGROMyFOeDQ4YWU4Q3h3VFV3djk4Z25VVnB4VkZuZkZlZmVDdQ,,.gif" width="400">
 
@@ -69,3 +70,8 @@ if(succeed == false){
 <a href="https://www.instagram.com/akash_7sky/">
   <img align="center" alt="Akashkothawade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+---
+![](https://visitor-badge.glitch.me/badge?page_id=akash3927)
+
+
