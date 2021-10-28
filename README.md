@@ -54,5 +54,14 @@ if(succeed == false){
 
  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash3927&theme=highcontrast" alt="akash3927" /></span>
 
+<h3 align="left">Connect with me:</h3>
 
-
+<a href="https://www.linkedin.com/in/akash-kothawade-36350b145/">
+  <img align="left" alt="Akashkothawade LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AkashKothawade7">
+  <img align="left" alt="Akashkothawade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://github.com/akash3927">
+  <img align="left" alt="Akashkothawade Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
