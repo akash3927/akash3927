@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Akash Kothawade</h1>
 
- <img src="https://media.giphy.com/media/3o84TYaWr47oRcCQfu/giphy.gif" width="250" /> <hr>
+ 
 
 - 📫 How to reach me *akashkothawade77@gmail.com*
 -  <a href="https://www.instagram.com/akash_7sky/"><img src="https://img.shields.io/badge/Akash Arun Kothawade-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Akash Arun Kothawade" />
