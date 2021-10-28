@@ -57,11 +57,14 @@ if(succeed == false){
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/akash-kothawade-36350b145/">
-  <img align="left" alt="Akashkothawade LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Akashkothawade LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/AkashKothawade7">
-  <img align="left" alt="Akashkothawade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Akashkothawade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://github.com/akash3927">
-  <img align="left" alt="Akashkothawade Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="center" alt="Akashkothawade Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://www.instagram.com/akash_7sky/">
+  <img align="center" alt="Akashkothawade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
