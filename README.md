@@ -1,6 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Akash Kothawade</h1>
-### About me 
-
+<h3 align="left">About me:</h3>
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
 ```js
@@ -8,10 +7,10 @@ document.write("Hello World");
 Developer dev = new Developer(Akash Kothawade);
 const Akash = {
     pronouns: "he" | "his",
-    status: Student,
+    status: Learner,
     technologies: {
         frontEnd: [HTML, CSS, Javascript],
-        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Postgresql],
+        backEnd: [Node.js, Express.js, MongoDB, Postgresql],
         libraries: [Bootstrap, JQuery]
     },
     editors: [VS Code, Atom],
@@ -25,7 +24,7 @@ if(succeed == false){
     party();
 };
 ```
-
+---
 
 
  <h3 align="left">Languages and Tools:</h3>
