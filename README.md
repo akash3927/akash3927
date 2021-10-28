@@ -2,10 +2,6 @@
 
  
 
-- 📫 How to reach me *akashkothawade77@gmail.com*
--  <a href="https://www.instagram.com/akash_7sky/"><img src="https://img.shields.io/badge/Akash Arun Kothawade-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Akash Arun Kothawade" />
- <a href="https://www.linkedin.com/in/akash-kothawade-36350b145"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Flinked-in-logo-company-editorial-2668700%2F&psig=AOvVaw3xIdHk8VmjVUwIfX9u3158&ust=1626191767750000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiUnMny3fECFQAAAAAdAAAAABAD" alt="LinkedIn"/></a>
- 
  <h3 align="left">Languages and Tools:</h3>
  
  <p align="left">   
@@ -25,7 +21,6 @@
  -->
 <h2> My GitHub Stats </h2>
 
-<p align="left"> <a href="https://github.com/akash3927"><img src="https://github-profile-trophy.vercel.app/?username=akash3927&theme=onedark" alt="akash3927" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash3927&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="akash3927" /></p>
 
@@ -34,13 +29,5 @@
 
  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash3927&theme=highcontrast" alt="akash3927" /></span>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akash3927&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-<img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="100" height="100px" />
-
- <h2>Inhale the Functional component , exhale the Class component 😁</h2>
 
