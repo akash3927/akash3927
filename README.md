@@ -12,8 +12,9 @@ const Akash = {
         frontEnd: [HTML, CSS, Javascript],
         backEnd: [Node.js, Express.js, MongoDB, Postgresql],
         libraries: [Bootstrap, JQuery]
+        editors: [VS Code, Atom],
     },
-    editors: [VS Code, Atom],
+    addicted: [chess, webseries, movies, few books]
     learning: [new things],
     contact: akashkothawade77@gmail.com
 };
