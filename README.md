@@ -10,8 +10,8 @@ const Akash = {
     pronouns: "he" | "his",
     status: Learner,
     technologies: {
-        frontEnd: [HTML, CSS, Javascript],
-        backEnd: [Node.js, Express.js, MongoDB, Postgresql],
+        frontEnd: [HTML, CSS, Javascript, Reactjs],
+        backEnd: [Node.js, Express.js, Sails.js, MongoDB, Postgresql],
         libraries: [Bootstrap, JQuery]
         editors: [VS Code, Atom],
     },
