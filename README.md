@@ -10,6 +10,7 @@ const Akash = {
     pronouns: "he" | "his",
     status: Learner,
     technologies: {
+        languages: [C, C++, Javascript]
         frontEnd: [HTML, CSS, Javascript, Reactjs],
         backEnd: [Node.js, Express.js, Sails.js, MongoDB, Postgresql],
         libraries: [Bootstrap, JQuery]
