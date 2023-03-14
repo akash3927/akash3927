@@ -13,7 +13,7 @@ const Akash = {
         languages: [C, C++, Javascript]
         frontEnd: [HTML, CSS, Javascript, Reactjs],
         backEnd: [Node.js, Express.js, Sails.js, MongoDB, Postgresql],
-        libraries: [Bootstrap, JQuery]
+        libraries: [Bootstrap, JQuery, Mui, Tailwind]
         editors: [VS Code, Atom],
     },
     addicted: [chess, webseries, movies, few books]
