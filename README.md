@@ -17,7 +17,7 @@ const Akash = {
         editors: [VS Code, Atom],
     },
     addicted: [chess, webseries, movies, few books]
-    learning: [new things],
+    learning: [new technologies],
     contact: akashkothawade77@gmail.com
 };
 
