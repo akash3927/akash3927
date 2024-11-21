@@ -1,4 +1,4 @@
-# Hi there, I'm Akash Kothawade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Akash Kothawade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 🌟 **About Me**  
 I am a **software engineer** with a passion for building scalable and efficient solutions across both backend and frontend. On the backend, I have extensive experience designing and implementing robust microservices and APIs, working with technologies like **Node.js**, **Go**, **MongoDB**, and **PostgreSQL**. I also have a strong focus on performance optimization, including caching with **Redis**. On the frontend, I enjoy building intuitive user interfaces with **React.js** and **Next.js**.
