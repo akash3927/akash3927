@@ -5,6 +5,16 @@ I am a **software engineer** with a passion for building scalable and efficient 
 
 I thrive on solving complex problems and love the challenge of creating elegant, efficient solutions. I continuously improve my skills across full-stack development, always adapting to new technologies and optimizing systems for performance and scalability, with experience in cloud platforms like **AWS**.
 
+
+I am a **software engineer** with a passion for building scalable, efficient, and intelligent systems.  
+- 💻 On the **backend**, I design and implement robust microservices & APIs using **Node.js**, **Go**, and databases like **MongoDB** & **PostgreSQL**, with performance optimizations through **Redis**.  
+- 🎨 On the **frontend**, I build clean and intuitive UIs using **React.js** and **Next.js**.  
+- ☁️ I have hands-on experience with **cloud platforms (AWS)**, ensuring scalability and reliability.  
+- 🤖 Recently, I’ve been exploring the world of **Generative AI** — building with **LLMs, RAG, AI Agents, and Vector DBs**, and integrating frameworks like **LangChain** and **LangGraph** to create intelligent, production-ready solutions.  
+
+I thrive on solving complex problems, continuously learning, and pushing the boundaries of what’s possible with software & AI. 🚀
+
+
 ---
 
 ## 💻 Tech Stack
