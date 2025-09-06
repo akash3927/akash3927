@@ -1,13 +1,7 @@
 ### Hi there, I'm Akash Kothawade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 🌟 **About Me**  
-I am a **software engineer** with a passion for building scalable, efficient, and intelligent systems.  
-- 💻 On the **backend**, I design and implement robust microservices & APIs using **Node.js**, **Go**, and databases like **MongoDB** & **PostgreSQL**, with performance optimizations through **Redis**.  
-- 🎨 On the **frontend**, I build clean and intuitive UIs using **React.js** and **Next.js**.  
-- ☁️ I have hands-on experience with **cloud platforms (AWS)**, ensuring scalability and reliability.  
-- 🤖 Recently, I’ve been exploring the world of **Generative AI** — building with **LLMs, RAG, AI Agents, and Vector DBs**, and integrating frameworks like **LangChain** and **LangGraph** to create intelligent, production-ready solutions.  
-
-I thrive on solving complex problems, continuously learning, and pushing the boundaries of what’s possible with software & AI. 🚀
+I am a **software engineer** passionate about building scalable, efficient, and intelligent systems — with strong problem-solving skills, a drive for continuous learning, and a vision to push the boundaries of software & AI. 🚀
 
 
 ---
