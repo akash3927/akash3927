@@ -25,6 +25,15 @@ I thrive on solving complex problems and love the challenge of creating elegant,
 
 - 🐬 MySQL, 🛑 Redis, 🍃 MongoDB, 🐘 PostgreSQL
 
+### 🤖 GenAI & LLMs
+- 📚 **LLMs**: Tokenization, Vector Embeddings, Prompting (Zero-shot, Few-shot, CoT, Persona, LLM-as-a-Judge)
+- 🛠️ **RAG**: Indexing, Splitting, Corrective RAG, HyDE, Query Rewriting, Chunking, Ranking, Subqueries
+- 🤖 **AI Agents**: Tools, Prompts, Agent SDK (Runner, Agent Handoff, Guardrails, Tracing, Thread Management, Human-in-the-loop)
+- 🔗 **Frameworks**: LangChain, LangGraph, LangSmith
+- 🗂️ **Vector DBs**: Qdrant
+- 🖥️ **MCP Servers**
+- 🎙️ **Voice Agents**
+
 ### 🔗 Blockchain
 
 - 🌐 Blockchain (Asset Management, Wallet Integration, Transactions)
